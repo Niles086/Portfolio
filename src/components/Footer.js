@@ -30,8 +30,8 @@ class Footer extends Component {
                 style={{ display: "inline" }}
               >
                 <span
-                  className="iconify language-icon mr-5"
-                  data-icon="twemoji-military-helmet"
+                  className="iconify language-icon"
+                  data-icon="twemoji-flag-us-outlying-islands"
                   data-inline="false"
                   id={window.$primaryLanguageIconId}
                 ></span>
@@ -47,10 +47,11 @@ class Footer extends Component {
               >
                 <span
                   className="iconify language-icon"
-                  data-icon="twemoji-flag-us-outlying-islands"
+                  data-icon="twemoji-military-helmet"
                   data-inline="false"
                   id={window.$secondaryLanguageIconId}
                 ></span>
+                
               </div>
             </div>
             <div className="col">
