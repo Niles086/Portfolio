@@ -11,26 +11,28 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Bark Buddies",
+        "startDate": "2023",
+        "description": "Personal project. I was responsible for working on it with my group for our code-201 final project. It is an app that allows owners to make a profile for their dog and our algorithm matches similar dogs in your area so you can setup a play date. I want to carry this project forward and create a fullstack app using react, node, and mongoDB.",
+        
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
-        ],
+          "images/portfolio/bark-buddies/p1.PNG",
+          "images/portfolio/bark-buddies/p2.PNG",
+          "images/portfolio/bark-buddies/p3.PNG"
+          ],
         "url": "",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-css3-plain",
+            "name": "CSS"
           }
         ]
       },
