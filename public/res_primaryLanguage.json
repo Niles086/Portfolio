@@ -5,6 +5,7 @@
       "section_name": {
         "about": "About me",
         "projects": "Projects",
+        
         "skills": "Skills",
         "experience": "Experience"
       }
@@ -20,7 +21,7 @@
           "images/portfolio/bark-buddies/p2.PNG",
           "images/portfolio/bark-buddies/p3.PNG"
           ],
-        "url": "",
+        "url": "https://bark-buddies.github.io/Bark-Buddies/form.html",
         "technologies": [
           {
             "class": "devicon-html5-plain",
