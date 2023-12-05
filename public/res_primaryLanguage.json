@@ -95,9 +95,11 @@
           "Azure",
           "AWS",
           "Office 365",
+          "SQL Server",
           "VMware",
           "vSphere",
           "PowerCLI",
+          "PowerShell",
           "vRealize",
           "vCenter",
           "vCenter Server",
@@ -122,6 +124,13 @@
           "Office 365",
           "Active Directory",
           "Veeam",
+          "Hyper-V",
+          "PowerCLI",
+          "Data Center Management",
+          "IIS",
+          "Apache",
+          "MySQL",
+          "SQL Server",
           "PowerShell"
         ]
       }
