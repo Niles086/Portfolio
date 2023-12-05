@@ -84,37 +84,45 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Cutter & Buck",
+        "title": "Senior Systems Engineer",
+        "years": "02-2023 - 09-2023",
         "mainTech": [
-          "Angular 8/9/10"
+          "vSphere 8.0"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "Meraki",
+          "Azure",
+          "AWS",
+          "Office 365",
+          "VMware",
+          "vSphere",
+          "PowerCLI",
+          "vRealize",
+          "vCenter",
+          "vCenter Server",
+          "Veeam",
+          "Active Directory",
+          "Data Center Management"
+
+        
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Syneren Technologies",
+        "title": "Senior Systems Engineer",
+        "years": "12 -2021 - 01 - 2023",
         "mainTech": [
-          "Angular 7/8"
+          "Windows Server"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "Meraki",
+          "Azure",
+          "AWS",
+          "Office 365",
+          "Active Directory",
+          "Veeam",
+          "PowerShell"
         ]
       }
     ]
