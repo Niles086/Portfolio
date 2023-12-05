@@ -47,13 +47,18 @@
         "level": "75"
       },
       {
-        "name": "IIAS",
-        "class": "devicon-iias-plain",
+        "name": "FileZilla",
+        "class": "devicon-filezilla-plain colored",
         "level": "60"
       },
       {
         "name": "NodeJS",
         "class": "devicon-nodejs-plain",
+        "level": "60"
+      },
+      {
+        "name": "Markdown",
+        "class": "devicon-markdown-original",
         "level": "60"
       },
 
