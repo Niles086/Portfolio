@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋Greetings, I'm Niles, and I'm thrilled to share a bit more about my journey and diverse background. As a Senior Systems Engineer, my career has been a tapestry of achievements in the dynamic world of technology. I take pride in being an emerging Software Developer and am particularly excited about my venture into this ever-evolving domain. Over the years, I've honed my skills across various facets of Information Technology, from Software as a Service (SAAS) to Infrastructure as a Service (IAAS), managing physical infrastructure, and mastering an array of network technologies. The application of Agile methodologies has seamlessly integrated into my work, allowing for enhanced adaptability and efficiency in projects. My proficiency in HTML, JavaScript, and Python has been instrumental in my transition into Software Development, and I'm committed to continually expanding my horizons in this field. I hold degrees in Network Systems Administration from the New York Institute of Technology and Network Communications Management from DeVry University, showcasing my dedication to lifelong learning. At present, I'm furthering my expertise as a student at Code Fellows, participating in their Full Stack Software Development Boot Camp.Beyond my professional endeavors, I'm a firm believer in work-life balance. I cherish quality time spent with my son and two dogs, relish the world of cinema and music, and occasionally find myself immersed in the realm of gaming. My professional reputation is built on a commitment to collaboration, a people-centric ethos, and a deep sense of compassion. These qualities have not only enriched my critical thinking but have also honed my management capabilities. In a world where technology is the backbone of modern society, my passion for innovation and commitment to excellence are the driving forces behind my journey. I'm excited to connect, share, and learn within this vast realm of knowledge and possibility.",
+      "description": "👋Hello there, I'm Niles, and I'm excited to share a bit about my journey and diverse background. With a career as a Senior Systems Engineer, I've achieved a lot in the ever-evolving world of technology. Transitioning into Software Development has been a proud achievement, and I'm thrilled about the endless possibilities in this domain. My experience spans across various facets of Information Technology, from Software as a Service (SAAS) to Infrastructure as a Service (IAAS), as well as managing physical infrastructure and mastering network technologies. I've seamlessly integrated Agile methodologies into my work, enhancing adaptability and project efficiency. Proficiency in HTML, JavaScript, and Python has been vital in my transition, and I'm dedicated to expanding my horizons in this field. Holding degrees in Network Systems Administration and Network Communications Management showcases my commitment to lifelong learning. Recently, I completed the Full Stack Software Development Boot Camp at Code Fellows and I'm currently pursuing my masters in web and mobile app development at DeVry University. Outside of work, I value a healthy work-life balance. Spending quality time with my son and three dogs, enjoying cinema and music, and indulging in gaming all contribute to this balance. My professional reputation is built on a commitment to collaboration, a people-centric ethos, and a deep sense of compassion. These qualities have enriched my critical thinking and honed my management capabilities. In today's world, where technology is the backbone of modern society, my passion for innovation and commitment to excellence are the driving forces behind my journey. I'm eager to connect, share, and continue learning within this vast realm of knowledge and possibility.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -14,7 +14,7 @@
       {
         "title": "Bark Buddies",
         "startDate": "2023",
-        "description": "Personal project. I was responsible for working on it with my group for our code-201 final project. It is an app that allows owners to make a profile for their dog and our algorithm matches similar dogs in your area so you can setup a play date. I want to carry this project forward and create a fullstack app using react, node, and mongoDB.",
+        "description": "Bark Buddies is a passion project of mine that aims to connect dog owners and their furry companions for shared playtime. The app allows dog owners to create detailed profiles for their pets and uses a sophisticated algorithm to match them with similar dogs in their local area. With the goal of expanding this project into a comprehensive full-stack app, I am pouring my heart into its development. As a devoted owner of three dogs myself, I am currently focused on enhancing the user experience with a new mobile app version.",
         
         "images": [
           "images/portfolio/bark-buddies/p1.PNG",
@@ -38,23 +38,22 @@
         ]
       },
       {
-        "title": "Project 2",
-        "startDate": "2023",
-        "description": "Placeholder",
+        "title": "File Organizer Pro",
+        "startDate": "2024",
+        "description": "File Organizer Pro is a Python-based personal project of mine designed to help with file management and organization on a PC. The program has dependencies such as tkinter, numpy, fitz, io, os, shutil, and zipfile. It allows users to browse folders on their computer using Windows Explorer integration, displaying files in alphanumeric order with their sizes. Users can perform various actions such as renaming, copying, moving, and searching for files anywhere on the PC, as well as zipping files. Additionally, the program provides real-time monitoring of system resources, including CPU, memory, disk, and network usage, through graphical charts and detailed lists. Users can easily see where the system usage is coming from and monitor inbound and outbound network traffic.",
         "images": [
-          "https://place-hold.it/300",
-          "https://place-hold.it/300"
+          "images/portfolio/fileOrgPro/p1.PNG",
+          "images/portfolio/fileOrgPro/p2.PNG",
+          "images/portfolio/fileOrgPro/p3.PNG",
+          "images/portfolio/fileOrgPro/p4.PNG"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/Niles086/file-cleaner",
         "technologies": [
           {
-            "class": "devicon-react-original",
-            "name": "React"
-          },
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
+            "class": "devicon-python-plain",
+            "name": "Python"
           }
+          
         ]
       },
       {
