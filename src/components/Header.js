@@ -39,7 +39,7 @@ class Header extends Component {
     }, () => true);
 
     return (
-      <header id="home" style={{ height: window.innerHeight - 600, display: 'block' }}>
+      <header id="home" style={{ height: window.innerHeight - 500, display: 'block' }}>
         <Nav activeKey="/home" fill style={{ position: 'absolute', top: 10, right: 10 }}>
           <Nav.Item> 
             <LinkContainer to="/">
