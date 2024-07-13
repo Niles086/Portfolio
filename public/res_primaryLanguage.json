@@ -57,26 +57,27 @@
         ]
       },
       {
-        "title": "Project 3",
-        "startDate": "2023",
-        "description": "Placeholder",
+        "title": "Coco Diamonds LLC",
+        "startDate": "2024",
+        "description": "Working with Coco Diamonds LLC was an incredibly rewarding experience and marked my first professional project for a company. Collaborating with the CEO of this startup allowed me to help bring their dream to life. Coco Diamonds is an Atlanta-based company that specializes in producing an organic skincare line. I was responsible for handling all aspects of graphic design, web development, and graphical editing for the entire company. Additionally, I set up payment processing and inventory management systems, effectively establishing the groundwork for their successful online e-commerce store.",
         "images": [
-          "https://place-hold.it/300",
-          "https://place-hold.it/300"
+          "images/portfolio/cocoD/p1.PNG",
+          "images/portfolio/cocoD/p2.PNG",
+          "images/portfolio/cocoD/p3.PNG"
         ],
-        "url": "https://github.com",
+        "url": "coco-diamonds.com",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-css3-plain",
+            "name": "CSS"
           }
         ]
       }
