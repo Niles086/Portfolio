@@ -56,6 +56,11 @@ class Header extends Component {
             </LinkContainer>
           </Nav.Item>
           <Nav.Item>
+          <Nav.Link href="https://docs.google.com/document/d/1F3kdv44uKw6tpClVx0ti3hnAQgEsggFehdJfoLD1hQ0/edit?usp=sharing" target="_blank" rel="noopener noreferrer">
+            Resume
+          </Nav.Link>
+        </Nav.Item>
+          <Nav.Item>
             <Switch 
               checked={this.state.checked}
               onChange={this.onThemeSwitchChange}
