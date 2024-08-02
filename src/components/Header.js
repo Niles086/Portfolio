@@ -52,7 +52,7 @@ class Header extends Component {
             </LinkContainer>
           </Nav.Item>
           <Nav.Item>
-            <Nav.Link href="https://docs.google.com/document/d/1F3kdv44uKw6tpClVx0ti3hnAQgEsggFehdJfoLD1hQ0/edit?usp=sharing" target="_blank" rel="noopener noreferrer">
+            <Nav.Link href="https://drive.google.com/file/d/1E4DnyFdATFKNknDp6JLJ-8oLEbgvDcA6/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
               Resume
             </Nav.Link>
           </Nav.Item>
